@@ -1,6 +1,6 @@
 # Site settings
 title: Makers Breda
-description: "An Integrated Scientific Blogging Template"
+description: "Community website by the makers in Breda"
 url: "https://makersbreda.github.io" # ToDo: Change to makersbreda.nl once published
 
 # Secondary Parameters
@@ -11,7 +11,7 @@ logo: /img/logos/makersbreda.svg
 
 # Tertiary Parameters
 github_username:  makersbreda
-project_repository: project-pages
+project_repository: makersbreda.github.io
 disqus_shortname: 
 g-analytics: 
 altmetric: false
@@ -37,8 +37,8 @@ defaults:
 
 # Prose Settings
 prose:
-  ignore: ['feed.xml', '/stl', '/ply', '/js', '/plugin', '/lib', '/projectors', '_layouts', '/_includes', 'Gruntfile.js', 'package.json', 'proselinks.jsonp', 'ppanchor.matin', '.gitignore', '/search', '/css', '/img', 'favicon.png','_data/*.json','LICENSES.md','README.md','colorscheme.scss','members.html','mentions.html','index.html']
-  siteurl: 'http://projectpages.github.io/project-pages/'
+  ignore: ['feed.xml', '/stl', '/ply', '/js', '/plugin', '/lib', '/projectors', '_layouts', '/_includes', 'Gruntfile.js', 'package.json', 'proselinks.jsonp', 'ppanchor.matin', '.gitignore', '/search', '/css', '/img', 'favicon.png','_data/*.json','LICENSES.md','README.md','colorscheme.scss','index.html']
+  siteurl: 'http://makersbreda.github.io/'
   ispp: true
   media: 'img'
   metadata:
