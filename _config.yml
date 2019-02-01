@@ -7,7 +7,7 @@ url: "https://makersbreda.github.io" # ToDo: Change to makersbreda.nl once publi
 baseurl: "/"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: /project-pages/img/logos/makersbreda.svg
+logo: /img/logos/makersbreda.svg
 
 # Tertiary Parameters
 github_username:  makersbreda
